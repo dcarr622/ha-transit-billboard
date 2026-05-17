@@ -36,7 +36,7 @@ To use this project, you'll need the following:
 * On your Home Assistant server, navigate to `Settings > Apps > Install app`.
 * In the top right corner, select `Repositories` in the overflow menu:
   * <img width="174" height="192" alt="image" src="https://github.com/user-attachments/assets/ac51760f-6e02-4211-8038-5dc303bd033d" />
-* Add this repository (https://github.com/ijwhelan/ha-transit-billboard)
+* Add this repository (https://github.com/dcarr622/ha-transit-billboard)
 * Return to the Home Assistant App Store and select `Check for updates` in the overflow menu:
   * <img width="172" height="193" alt="image" src="https://github.com/user-attachments/assets/a33c2571-5911-4b8f-a040-dbd81a9ebb47" />
 * Search for `Transit Billboard Builder` and install the app.
